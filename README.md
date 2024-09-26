@@ -1,5 +1,5 @@
 # PRODIGY_WD_01
-#Responsive Landing Page
+# Responsive Landing Page
 # BookHunt - Online Bookstore
 
 ## Project Description

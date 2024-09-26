@@ -11,7 +11,7 @@
 - **Responsive Design**: Optimized for both desktop and mobile devices.
 - **Curated Book Recommendations**: Hand-picked selections of popular and trending books.
 - **Interactive User Interface**: Easy navigation with a clean and modern look.
-- **Community Engagement**: Allows users to connect through virtual book clubs and exclusive author content.
+
 
 ## Technologies Used
 

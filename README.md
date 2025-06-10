@@ -20,5 +20,5 @@
 - **JavaScript**
 - **Responsive Web Design**
 
-  Click Here To View Landing Page <a href="https://sarubala-msbala4455.github.io/PRODIGY_WD_01/">BookHunt</a>
+  Click Here To View Landing Page <a href="https://sarubala-msbala4455.github.io/Responsive-Landing-Page-/">BookHunt</a>
 
